@@ -5,6 +5,8 @@ A small but complete multi-agent RAG application:
 <img width="2446" height="1398" alt="image" src="https://github.com/user-attachments/assets/bb80bda2-7986-4aa7-8a33-a2c9bda88763" />
 
 
+
+
 - **FastAPI** — HTTP API layer
 - **PyTorch** — trains a small classifier that routes each query to the right agent
 - **ChromaDB** — vector database, one isolated collection per agent
