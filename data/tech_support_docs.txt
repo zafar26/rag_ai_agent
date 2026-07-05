@@ -1,0 +1,10 @@
+To reset your password, go to the login page and click "Forgot Password", then follow the link sent to your registered email.
+If the app crashes on startup, try clearing the app cache from Settings > Storage, then restart your device.
+For a 404 error, check that the URL is typed correctly and that the page hasn't been moved or deleted.
+Software updates can be installed from Settings > System > Software Update. A restart is required after installing.
+If your internet keeps dropping, restart your router, check for firmware updates, and contact your ISP if the issue persists.
+To connect to the company VPN, install the VPN client from the internal portal and log in with your employee credentials.
+Two factor authentication can be enabled in Account Settings > Security > Two-Factor Authentication.
+If the system is running slow, check for background processes consuming CPU, and ensure at least 15% of disk space is free.
+Deleted files can often be recovered from the Recycle Bin or Trash within 30 days of deletion.
+Server downtime notices are posted on the status page at status.example.com with estimated restoration times.
