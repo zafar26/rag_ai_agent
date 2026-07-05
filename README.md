@@ -2,6 +2,7 @@
 
 A small but complete multi-agent RAG application:
 
+<img width="2446" height="1398" alt="image" src="https://github.com/user-attachments/assets/bb80bda2-7986-4aa7-8a33-a2c9bda88763" />
 
 
 - **FastAPI** — HTTP API layer
@@ -45,6 +46,10 @@ python ingest.py
 # 4. Start the API
 uvicorn main:app --reload
 ```
+<img width="1944" height="1230" alt="image" src="https://github.com/user-attachments/assets/12c136e5-3e27-4a41-ae65-2703f5fc0014" />
+
+<img width="1980" height="950" alt="image" src="https://github.com/user-attachments/assets/82767c6a-fbc8-4687-be97-0cd52e8e3e7d" />
+
 
 The API will be live at `http://127.0.0.1:8000`. Interactive docs (Swagger UI)
 are auto-generated at `http://127.0.0.1:8000/docs`.
